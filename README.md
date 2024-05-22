@@ -58,7 +58,9 @@ Calculate the churn rate.
 
 5. Data Visualization
 
-Visual representation of data provides intuitive insights. The report will include:
+Visual representation of data provides intuitive insights. 
+
+The report will include:
 
 Cards:
 
